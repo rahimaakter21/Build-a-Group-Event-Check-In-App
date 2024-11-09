@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350150696664",
+    "project_id": "groupeventcheck-inappjob3-1",
+    "storage_bucket": "groupeventcheck-inappjob3-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350150696664:android:2b971d5012dc6e96cc01ad",
+        "android_client_info": {
+          "package_name": "com.example.groupeventcheck_inapp_job3_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhGKdL7qPcFV7bmTnzB06xfmSt7tHyok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
